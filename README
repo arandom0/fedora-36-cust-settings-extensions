@@ -1,7 +1,7 @@
 These are my custom gnome tweaks, extensions and extension settings. The idea here is you pin applications to the start menu (arc menu), as opposed to pinning them directly to the panel. Panel is vertical because it makes 0 sense to have a horizontal panel on a 16:9 display. It's on the right because it's more efficient that way based on my experience. You can of course change all that. This is just how it comes with all the per-configured settings applied.
 
 Download the repo, open a terminal in the folder it was downloaded (and potentially extracted in), and run:
-bash "install.sh"
+bash install.sh
 
 Logout (or restart) for the installed extensions to become available, open a terminal in that folder again and run:
-python3 'settings.py"
+python3 settings.py
